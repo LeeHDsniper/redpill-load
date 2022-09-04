@@ -2,7 +2,7 @@
   "os": {
     "id": "ds918p_42661",
     "pat_url": "https://global.download.synology.com/download/DSM/criticalupdate/update_pack/42661-4/synology_apollolake_918%2B.pat",
-    "sha256": "7B56ED008C08B473FD00BD8B1D70AAFB4B989E555F85B921C9979CACCFCBAB60"
+    "sha256": "7b56ed008c08b473fd00bd8b1d70aafb4b989e555f85b921c9979caccfcbab60"
   },
 
   "files": {
